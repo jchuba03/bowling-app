@@ -3,12 +3,6 @@ bowling-app
 
 my first bowling app
 
-
-
-$ cd ~/Hello-World
-# Changes the current working directory to your newly created directory
-
-
 $ git init
 # Sets up the necessary Git files
 
